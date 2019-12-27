@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileSavePractice</string>
+    <string name="description">photo</string>
+    <string name="save">Button Save</string>
+    <string name="read">Button Read</string>
+    <string name="saved">image saved</string>
+    <string name="save2">Button Sava2</string>
+    <string name="read2">Button Read2</string>
+    <string name="saved2">image saved2</string>
+    <string name="error">error: FileOutputStream </string>
+</resources>
